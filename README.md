@@ -14,6 +14,14 @@ This is just an experimental project to implement debezium with kafka-connect to
 
 ## Installation
 
+1. create .env file and then comply to env.example
+2. Run the following command
+
+```
+$ docker-compose up
+```
+
+
 ## Scenario
 
 1. Run docker container.
